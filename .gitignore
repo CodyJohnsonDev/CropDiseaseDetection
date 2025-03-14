@@ -1,0 +1,17 @@
+# Ignore virtual environments
+.venv/
+env/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore model weights and large datasets
+*.h5
+*.pth
+*.ckpt
+datasets/
