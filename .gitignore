@@ -1,4 +1,5 @@
 # Ignore virtual environments
+plant_env/
 .venv/
 env/
 
@@ -14,5 +15,4 @@ __pycache__/
 *.h5
 *.pth
 *.ckpt
-datasets/plant_env/
-plant_env/
+datasets/
